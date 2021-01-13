@@ -1,0 +1,15 @@
+{
+  "name": "billytodo",
+  "version": "1.0.0",
+  "description": "A clean TODO app, meant to be simple.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "billyeatcookies",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  }
+}
